@@ -1,3 +1,11 @@
+package domain;
+import domain.Invitation;
+import domain.Ticket;
+
+/**
+ * Bag의 내부 상태에 접근하는 모든 로직을 Bag 안으로 캡슐화해서 결합도를 낮췄다.
+ * 즉, 상태와 행위도를 함께 가지고 응집도가 높아졌다.
+ */
 public class Bag {
     private Long amount;
     private Invitation invitation;

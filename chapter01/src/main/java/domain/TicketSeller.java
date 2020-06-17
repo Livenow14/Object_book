@@ -1,3 +1,8 @@
+package domain;
+
+import domain.Audience;
+import domain.TicketOffice;
+
 public class TicketSeller {
     private TicketOffice ticketOffice;
 
