@@ -13,10 +13,6 @@ public class Money {
         return new Money(BigDecimal.valueOf(amount));
     }
 
-    public static Money wons(double amount) {
-        return new Money(BigDecimal.valueOf(amount));
-    }
-
     Money(BigDecimal amount) {
         this.amount = amount;
     }
@@ -41,6 +37,7 @@ public class Money {
         return amount.compareTo(other.amount) >= 0;
     }
 
+    @Override
     public boolean equals(Object object) {
         if (this == object) {
             return true;
@@ -54,10 +51,12 @@ public class Money {
         return Objects.equals(amount.doubleValue(), other.amount.doubleValue());
     }
 
+    @Override
     public int hashCode() {
         return Objects.hashCode(amount);
     }
 
+    @Override
     public String toString() {
         return amount.toString() + "원";
     }

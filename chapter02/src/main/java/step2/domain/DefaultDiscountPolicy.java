@@ -24,5 +24,5 @@ public abstract class DefaultDiscountPolicy implements DiscountPolicy {
         return Money.ZERO;
     }
 
-    abstract protected Money getDiscountAmount(Screening Screening);
+    abstract public Money getDiscountAmount(Screening Screening);
 }

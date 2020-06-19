@@ -6,8 +6,9 @@ import step2.domain.Money;
 import step2.domain.Screening;
 
 public class NoneDiscountPolicy implements DiscountPolicy {
+
     @Override
-    protected Money getDiscountAmount(Screening screening) {
+    public Money getDiscountAmount(Screening screening) {
         return Money.ZERO;
     }
 

@@ -15,7 +15,7 @@ public class AmountDiscountPolicy extends DefaultDiscountPolicy {
     }
 
     @Override
-    protected Money getDiscountAmount(Screening screening) {
+    public Money getDiscountAmount(Screening screening) {
         return discountAmount;
     }
 }
