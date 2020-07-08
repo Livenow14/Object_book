@@ -1,3 +1,4 @@
+/*
 package domain;
 
 import java.util.List;
@@ -9,3 +10,4 @@ public class Equation {
         this.numbers = new Numbers(equation);
     }
 }
+*/

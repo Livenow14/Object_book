@@ -1,3 +1,4 @@
+/*
 import domain.Equation;
 import view.InputView;
 
@@ -7,3 +8,4 @@ public class Calculator {
         Equation equation = new Equation(InputView.getInputEquation());
     }
 }
+*/
