@@ -14,3 +14,6 @@
 
 
 ## [Chapter04_설계 품질과 트레이드 오프 ](https://github.com/Livenow14/Object_book/tree/master/chapter04)
+
+
+## [Chapter05_책임  할당하기 ](https://github.com/Livenow14/Object_book/tree/master/chapter05)
