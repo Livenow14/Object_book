@@ -2,62 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b899c47a-f453-4b1b-87d8-8b0206531866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step01/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step01/NightlyDiscountPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step01/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step02/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step02/NightlyDiscountPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step02/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step03/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step03/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step04/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step04/NightlyDiscountPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step04/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step05/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step05/NightlyDiscountPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step05/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step06/AbstractPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step06/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step06/NightlyDiscountPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step06/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step07/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step07/NightlyDiscountPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step07/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step07/RegularPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step08/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step08/NightlyDiscountPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step08/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/billing/step08/RegularPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/instrumented/InstrumentedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/money/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/playlist/step01/PersonalPlaylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/playlist/step01/Playlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/playlist/step01/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/playlist/step02/PersonalPlaylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/playlist/step02/Playlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eternity/playlist/step02/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter09/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter09/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter09/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter09/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step01/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step01/NightlyDiscountPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step01/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step01/RegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step02/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step02/NightlyDiscountPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step02/RegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step02/TaxableRegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step03/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step03/NightlyDiscountPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step03/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step03/RegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step03/TaxableRegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/NightlyDiscountPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/RateDiscountableAndTaxableNightlyDiscountPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/RateDiscountableAndTaxableRegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/RateDiscountableNightlyDiscountPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/RateDiscountableRegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/RegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/TaxableAndDiscountableNightlyDiscountPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/TaxableAndRateDiscountableRegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/TaxableNightlyDiscountPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step04/TaxableRegularPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/AdditionalRatePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/BasicRatePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/NightlyDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/RateDiscountablePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/RatePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/RegularPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/billing/step05/TaxablePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/instrumented/InstrumentedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/money/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/playlist/PersonalPlaylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/playlist/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/playlist/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/properties/Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter11/src/main/java/org/eternity/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +101,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -105,7 +109,12 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="eternity.properties" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tae Jeong\Desktop\대학관련자료\개인공부\오브젝트_코드로 이해하는 객체지향 설계\Object_book\chapter10" />
+      <recent name="C:\Users\Tae Jeong\Desktop\대학관련자료\개인공부\오브젝트_코드로 이해하는 객체지향 설계\Object_book\chapter10\src\main\java\eternity" />
       <recent name="C:\Users\Tae Jeong\Desktop\대학관련자료\개인공부\오브젝트_코드로 이해하는 객체지향 설계\Object_book\chapter10\src\main\java" />
     </key>
   </component>
@@ -119,7 +128,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597488128643</updated>
-      <workItem from="1597488130981" duration="4455000" />
+      <workItem from="1597488130981" duration="5104000" />
+      <workItem from="1597494556020" duration="938000" />
+      <workItem from="1597496763671" duration="1230000" />
     </task>
     <servers />
   </component>
@@ -138,9 +149,13 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="423" width="437" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1597488496666" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1597490898256">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1597494579806">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1597490898256" />
+    <state width="498" height="446" key="SwitcherDM/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1597494579806" />
+    <state x="436" y="155" key="new project wizard" timestamp="1597494369721">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="436" y="155" key="new project wizard/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1597494369721" />
   </component>
 </project>
