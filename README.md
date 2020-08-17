@@ -17,3 +17,17 @@
 
 
 ## [Chapter05_책임  할당하기 ](https://github.com/Livenow14/Object_book/tree/master/chapter05)
+
+
+## [Chapter06_메세지와 인터페이스 ](https://github.com/Livenow14/Object_book/tree/master/chapter65)
+
+
+## [Chapter08_의존성 관리하기 ](https://github.com/Livenow14/Object_book/tree/master/chapter08)
+
+
+## [chapter09_유연한 설계 ](https://github.com/Livenow14/Object_book/tree/master/chapter09)
+
+
+## [chapter10_상속과 코드 재사용 ](https://github.com/Livenow14/Object_book/tree/master/chapter10)
+
+## [chapter11_합성과 유연한 설계 ](https://github.com/Livenow14/Object_book/tree/master/chapter11)
